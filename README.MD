@@ -90,4 +90,4 @@ task-cli list in-progress
 ```
 
 ## URL
-[Link to this project.](https://github.com/Aadi-Rijal/TaskTrackerCLI)
+[Check the project in roadmap.sh](https://roadmap.sh/projects/task-tracker)
