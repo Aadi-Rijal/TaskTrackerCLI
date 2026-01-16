@@ -56,27 +56,35 @@ task-cli add "Buy groceries"
 ### ✏️ Update a Task
 ```bash
 task-cli update 1 "Buy groceries and cook dinner"
+# Output: Task updated successfully`
 ```
 
 ### 🗑 Delete a Task
 ```bash
 task-cli delete 1
+# Output: Task deleted successfully`
 ```
 
 ### 🔄 Mark Task Status
 ```bash
 task-cli mark-in-progress 1
+# Output: Task marked as in-progress`
 task-cli mark-done 1
+# Output: Task marked as done`
 ```
 
 ### 📋 List Tasks
 ```bash
 task-cli list
+# Output: [<ID>] <description> (<status>)`
 ```
 
 ### 📋 List Tasks by Status
 ```bash
 task-cli list done
+# Output: [<ID>] <description> (done)`
 task-cli list todo
+# Output: [<ID>] <description> (todo)`
 task-cli list in-progress
+# Output: [<ID>] <description> (inprogress)`
 ```
