@@ -90,4 +90,4 @@ task-cli list in-progress
 ```
 
 ## URL
-[Link Text](https://github.com/Aadi-Rijal/TaskTrackerCLI "Link to this project.")
+[Link to this project.](https://github.com/Aadi-Rijal/TaskTrackerCLI)
